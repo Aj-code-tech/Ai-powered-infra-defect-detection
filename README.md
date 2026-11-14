@@ -1,5 +1,9 @@
 # 🛣️ InfraGuard AI: Infrastructure Defect Detection & Maintenance Prioritization
 
+
+live test here - https://ai-powered-infra-defect-detection-cwemh2mqqybjz7ktjnlsr6.streamlit.app/
+
+
 An end-to-end Computer Vision and Civil Engineering decision-support system that detects Indian pavement distresses using **YOLOv8s** and ranks road segments for repair using an **IRC-aligned Severity & Prioritization Engine**.
 
 ### Key Features
